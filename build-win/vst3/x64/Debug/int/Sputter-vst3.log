@@ -1,0 +1,76 @@
+﻿  baseiids.cpp
+  fbuffer.cpp
+  fdebug.cpp
+  fdynlib.cpp
+  fobject.cpp
+  fstreamer.cpp
+  fstring.cpp
+  timer.cpp
+  updatehandler.cpp
+  fcondition.cpp
+  flock.cpp
+  conststringtable.cpp
+  coreiids.cpp
+  funknown.cpp
+  ustring.cpp
+  memorystream.cpp
+  pluginview.cpp
+  commoniids.cpp
+  dllmain.cpp
+  pluginfactory.cpp
+  vstaudioeffect.cpp
+  vstbus.cpp
+  vstcomponent.cpp
+  vstcomponentbase.cpp
+  vstinitiids.cpp
+  vstparameters.cpp
+  vstsinglecomponenteffect.cpp
+  IControls.cpp
+  IPopupMenuControl.cpp
+  ITextEntryControl.cpp
+  IControl.cpp
+  IGraphics.cpp
+  IGraphicsWin.cpp
+  IPlugAPIBase.cpp
+  IGraphicsEditorDelegate.cpp
+  IPlugParameter.cpp
+  IPlugPaths.cpp
+  IPlugPluginBase.cpp
+  IPlugProcessor.cpp
+  IPlugTimer.cpp
+  IPlugVST3.cpp
+  IPlugVST3_ProcessorBase.cpp
+  Sputter.cpp
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(26,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(27,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(29,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(31,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(32,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(33,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(34,1): warning C4305: 'argument': truncation from 'double' to 'float'
+     Creating library C:\dev\iPlug2\Projects\Sputter\build-win\vst3\x64\Debug\int\Sputter.lib and object C:\dev\iPlug2\Projects\Sputter\build-win\vst3\x64\Debug\int\Sputter.exp
+  Sputter-vst3.vcxproj -> C:\dev\iPlug2\Projects\Sputter\build-win\vst3\x64\Debug\Sputter.vst3
+  POSTBUILD SCRIPT VARIABLES -----------------------------------------------------
+  FORMAT ".vst3" 
+  NAME "Sputter" 
+  PLATFORM "x64" 
+  COPY_VST2 "1" 
+  BUILT_BINARY "C:\dev\iPlug2\Projects\Sputter\build-win\vst3\x64\Debug\Sputter.vst3" 
+  VST2_32_PATH "C:\Program Files (x86)\VstPlugins" 
+  VST2_64_PATH "C:\Program Files\VstPlugins"  
+  VST3_32_PATH "C:\Program Files (x86)\Common Files\VST3" 
+  VST3_64_PATH "C:\Program Files\Common Files\VST3" 
+  BUILD_DIR "C:\dev\iPlug2\Projects\Sputter\build-win"
+  VST_ICON "C:\dev\iPlug2\Projects\Sputter\projects\..\..\..\Dependencies\IPlug\VST3_SDK\doc\artwork\VST_Logo_Steinberg.ico" 
+  AAX_ICON "C:\dev\iPlug2\Projects\Sputter\projects\..\..\..\Dependencies\IPlug\AAX_SDK\Utilities\PlugIn.ico" 
+  CREATE_BUNDLE_SCRIPT "C:\dev\iPlug2\Projects\Sputter\projects\..\..\..\Scripts\create_bundle.bat"
+  END POSTBUILD SCRIPT VARIABLES -----------------------------------------------------
+  copying 64bit binary to VST3 BUNDLE ...
+  Create AAX/VST3 Package Directories
+  Set Folder Icon
+          1 file(s) copied.
+  copying VST3 bundle to 64bit VST3 Plugins folder ...
+  Create AAX/VST3 Package Directories
+  Set Folder Icon
+  C:\dev\iPlug2\Projects\Sputter\build-win\Sputter.vst3\Contents\x86_64-win\Sputter.vst3
+  1 File(s) copied
