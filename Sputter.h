@@ -1,12 +1,17 @@
 #pragma once
 
 #include "IPlug_include_in_plug_hdr.h"
+#include "SlowRand.h"
 
 const int kNumPresets = 1;
 
 enum EParams
 {
-  kGain = 0,
+  kfreq1 = 0,
+  kfreq2,
+  kstrength,
+  kslew,
+  kintensity,
   kNumParams
 };
 
@@ -20,5 +25,9 @@ public:
 
 #if IPLUG_DSP // http://bit.ly/2S64BDd
   void ProcessBlock(sample** inputs, sample** outputs, int nFrames) override;
+  void OnReset() override;
+  void OnParamChange(int paramIdx) override;
+private:
+  SlowRand mSlowRand;
 #endif
 };
