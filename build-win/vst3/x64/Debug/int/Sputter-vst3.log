@@ -1,54 +1,13 @@
-﻿  baseiids.cpp
-  fbuffer.cpp
-  fdebug.cpp
-  fdynlib.cpp
-  fobject.cpp
-  fstreamer.cpp
-  fstring.cpp
-  timer.cpp
-  updatehandler.cpp
-  fcondition.cpp
-  flock.cpp
-  conststringtable.cpp
-  coreiids.cpp
-  funknown.cpp
-  ustring.cpp
-  memorystream.cpp
-  pluginview.cpp
-  commoniids.cpp
-  dllmain.cpp
-  pluginfactory.cpp
-  vstaudioeffect.cpp
-  vstbus.cpp
-  vstcomponent.cpp
-  vstcomponentbase.cpp
-  vstinitiids.cpp
-  vstparameters.cpp
-  vstsinglecomponenteffect.cpp
-  IControls.cpp
-  IPopupMenuControl.cpp
-  ITextEntryControl.cpp
-  IControl.cpp
-  IGraphics.cpp
-  IGraphicsWin.cpp
-  IPlugAPIBase.cpp
-  IGraphicsEditorDelegate.cpp
-  IPlugParameter.cpp
-  IPlugPaths.cpp
-  IPlugPluginBase.cpp
-  IPlugProcessor.cpp
-  IPlugTimer.cpp
-  IPlugVST3.cpp
-  IPlugVST3_ProcessorBase.cpp
-  Sputter.cpp
-C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(26,1): warning C4305: 'argument': truncation from 'double' to 'float'
+﻿  Sputter.cpp
 C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(27,1): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(29,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(28,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(30,1): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(31,1): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(32,1): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(33,1): warning C4305: 'argument': truncation from 'double' to 'float'
 C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(34,1): warning C4305: 'argument': truncation from 'double' to 'float'
-     Creating library C:\dev\iPlug2\Projects\Sputter\build-win\vst3\x64\Debug\int\Sputter.lib and object C:\dev\iPlug2\Projects\Sputter\build-win\vst3\x64\Debug\int\Sputter.exp
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(35,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(36,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\iPlug2\Projects\Sputter\Sputter.cpp(37,1): warning C4305: 'argument': truncation from 'double' to 'float'
   Sputter-vst3.vcxproj -> C:\dev\iPlug2\Projects\Sputter\build-win\vst3\x64\Debug\Sputter.vst3
   POSTBUILD SCRIPT VARIABLES -----------------------------------------------------
   FORMAT ".vst3" 

@@ -1,10 +1,10 @@
 #define PLUG_NAME "Sputter"
 #define PLUG_MFR "ACA"
 #define PLUG_VERSION_HEX 0x00010000
-#define PLUG_VERSION_STR "0.1.0"
+#define PLUG_VERSION_STR "0.2.0"
 #define PLUG_UNIQUE_ID 'aca2'
 #define PLUG_MFR_ID 'ACA'
-#define PLUG_URL_STR "https://iplug2.github.io"
+#define PLUG_URL_STR "https://github.com/aca18/Sputter"
 #define PLUG_EMAIL_STR "spam@me.com"
 #define PLUG_COPYRIGHT_STR "Copyright 2020 ACA"
 #define PLUG_CLASS_NAME Sputter

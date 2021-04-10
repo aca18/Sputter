@@ -340,6 +340,7 @@
     <ClInclude Include="..\..\..\IPlug\VST3\IPlugVST3_View.h" />
     <ClInclude Include="..\Sputter.h" />
     <ClInclude Include="..\resources\resource.h" />
+    <ClInclude Include="SlowRand.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\Dependencies\IPlug\VST3_SDK\base\source\baseiids.cpp" />

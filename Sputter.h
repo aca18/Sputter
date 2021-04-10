@@ -12,7 +12,18 @@ enum EParams
   kstrength,
   kslew,
   kintensity,
+  kmode,
   kNumParams
+};
+
+enum EStereoModes
+{
+  kMono = 0,
+  kStereo,
+  kPan,
+  kMidSide,
+  kMSPan,
+  kNumModes
 };
 
 using namespace iplug;
@@ -28,6 +39,7 @@ public:
   void OnReset() override;
   void OnParamChange(int paramIdx) override;
 private:
-  SlowRand mSlowRand;
+  SlowRand mSlowRand1;
+  SlowRand mSlowRand2;
 #endif
 };
